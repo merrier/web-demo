@@ -27,7 +27,58 @@
 [原文地址](https://www.kancloud.cn/dennis/javascriptmethod/261474)
 [在线演示](http://merrier.github.io/web-demo/CSS/cude/cude.html)
 
-####
+#### 水中倒影
+
+![水中倒影](./Sampleimg/boxReflect.png)
+
+[原文地址](https://www.kancloud.cn/dennis/javascriptmethod/261475)
+[在线演示](http://merrier.github.io/web-demo/CSS/boxReflect/boxReflect.html)
+
+#### 工具提示
+
+![工具提示](./Sampleimg/tooltip.png)
+
+[原文地址](https://www.kancloud.cn/dennis/javascriptmethod/261476)
+[在线演示](http://merrier.github.io/web-demo/CSS/tooltip/tooltip.html)
+
+#### 单选复选
+
+![单选复选](./Sampleimg/input.png)
+
+[原文地址](https://www.kancloud.cn/dennis/javascriptmethod/261477)
+[在线演示](http://merrier.github.io/web-demo/CSS/input/input.html)
+
+#### Loading加载
+
+![Loading加载](./Sampleimg/loading.gif)
+
+[原文地址](https://www.kancloud.cn/dennis/javascriptmethod/261478)
+[在线演示](http://merrier.github.io/web-demo/CSS/loading/loading.html)
+
+#### 图片滤镜
+
+![图片滤镜](./Sampleimg/filter.png)
+
+[原文地址](https://www.kancloud.cn/dennis/javascriptmethod/261479)
+[在线演示](http://merrier.github.io/web-demo/CSS/filter/filter.html)
+
+#### 阴影
+
+![阴影](./Sampleimg/boxShadow.png)
+
+[原文地址](https://www.kancloud.cn/dennis/javascriptmethod/261480)
+[在线演示](http://merrier.github.io/web-demo/CSS/boxShadow/boxShadow.html)
+
+#### [3D按钮](https://www.kancloud.cn/dennis/javascriptmethod/261481)
+![普通按钮](./Sampleimg/button.png)
+
+[在线演示(普通按钮)](http://merrier.github.io/web-demo/CSS/button/button.html)
+
+![3按钮](./Sampleimg/3dButton.png)
+
+[在线演示(3D按钮)](http://merrier.github.io/web-demo/CSS/button/3dButton.html)
+
+[原文地址](https://www.kancloud.cn/dennis/javascriptmethod/261481)
 
 ### JavaScript实战篇
 
