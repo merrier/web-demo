@@ -9,17 +9,29 @@
 * [作者个人博客](http://ghmagical.com/)
 
 ## 目录
-> 我在这里只会给出代码，并不会给出解释，如果想要了解其中的原理，欢迎购买原书电子版（才￥5，强烈推荐购买！）
+> 我在这里只会给出代码，并不会给出解释，如果想要了解其中的原理，欢迎购买原书电子版（才￥5，强烈推荐购买！而且如果不购买原书的话，下面的有些原文地址打开是看不到作者的讲解的）
 
-### CSS篇
-* 白光划过效果
-* 3D立方体
-* 水中倒影
-* 工具提示(tooltip)
+### CSS实战篇
 
-### JavaScript篇
+#### 白光划过效果
 
-### canvas篇
+![白光划过效果](./Sampleimg/highlight.gif)
 
-### 移动篇
+[原文地址](https://www.kancloud.cn/dennis/javascriptmethod/261473)
+[在线演示](http://merrier.github.io/web-demo/CSS/highlight/highlight.html)
+
+#### 3D立方体
+
+![3D立方体](./Sampleimg/cude.gif)
+
+[原文地址](https://www.kancloud.cn/dennis/javascriptmethod/261474)
+[在线演示](http://merrier.github.io/web-demo/CSS/cude/cude.html)
+
+#### 
+
+### JavaScript实战篇
+
+### canvas实战篇
+
+### 移动实战篇
 
