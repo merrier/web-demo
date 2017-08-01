@@ -235,7 +235,263 @@
 
 ### JavaScript实战篇
 
+#### 点击水波纹
+
+![点击水波纹](./Sampleimg/ripple.gif)
+
+[原文地址](https://www.kancloud.cn/dennis/javascriptmethod/261501)
+[在线演示](http://merrier.github.io/web-demo/JavaScript/ripple/ripple.html)
+
+#### 手风琴布局
+
+![手风琴布局](./Sampleimg/collpase.gif)
+
+[原文地址](https://www.kancloud.cn/dennis/javascriptmethod/261502)
+[在线演示](http://merrier.github.io/web-demo/JavaScript/collpase/collpase.html)
+
+#### 收缩菜单
+
+![收缩菜单](./Sampleimg/shrink.gif)
+
+[原文地址](https://www.kancloud.cn/dennis/javascriptmethod/261503)
+[在线演示](http://merrier.github.io/web-demo/JavaScript/shrink/shrink.html)
+
+#### 滑块
+
+![滑块](./Sampleimg/range.gif)
+
+[原文地址](https://www.kancloud.cn/dennis/javascriptmethod/261504)
+[在线演示](http://merrier.github.io/web-demo/JavaScript/range/range.html)
+
+#### 瀑布流
+
+![瀑布流](./Sampleimg/fallwall.gif)
+
+[原文地址](https://www.kancloud.cn/dennis/javascriptmethod/261505)
+[在线演示](http://merrier.github.io/web-demo/JavaScript/fallwall/fallwall.html)
+
+#### 下拉菜单
+
+![下拉菜单](./Sampleimg/dropdown.gif)
+
+[原文地址](https://www.kancloud.cn/dennis/javascriptmethod/261506)
+[在线演示](http://merrier.github.io/web-demo/JavaScript/dropdown/dropdown.html)
+
+#### 幻灯片
+
+![幻灯片](./Sampleimg/slide.gif)
+
+[原文地址](https://www.kancloud.cn/dennis/javascriptmethod/261507)
+[在线演示](http://merrier.github.io/web-demo/JavaScript/slide/slide3D.html)
+
+#### 选项卡
+
+![选项卡](./Sampleimg/tab.gif)
+
+[原文地址](https://www.kancloud.cn/dennis/javascriptmethod/261508)
+[在线演示](http://merrier.github.io/web-demo/JavaScript/tab/tab.html)
+
+#### 全屏滚动
+
+![全屏滚动](./Sampleimg/fullpage.gif)
+
+[原文地址](https://www.kancloud.cn/dennis/javascriptmethod/261509)
+[在线演示](http://merrier.github.io/web-demo/JavaScript/fullpage/fullpage.html)
+
+#### 富文本编辑器
+
+![富文本编辑器](./Sampleimg/editor.png)
+
+[原文地址](https://www.kancloud.cn/dennis/javascriptmethod/261510)
+[在线演示](http://merrier.github.io/web-demo/JavaScript/editor/editor.html)
+
+#### 带表情输入的评论框
+
+![带表情输入的评论框](./Sampleimg/comment.gif)
+
+[原文地址](https://www.kancloud.cn/dennis/javascriptmethod/261511)
+[在线演示](http://merrier.github.io/web-demo/JavaScript/comment/comment.html)
+
+#### 图片懒加载
+
+![图片懒加载](./Sampleimg/lazyloader.gif)
+
+[原文地址](https://www.kancloud.cn/dennis/javascriptmethod/261512)
+[在线演示](http://merrier.github.io/web-demo/JavaScript/lazyloader/lazyload.html)
+
+#### 开启全屏
+
+![开启全屏](./Sampleimg/fullscreen.png)
+
+[原文地址](https://www.kancloud.cn/dennis/javascriptmethod/261513)
+[在线演示](http://merrier.github.io/web-demo/JavaScript/fullscreen/fullscreen.html)
+
+#### 返回顶部
+
+![返回顶部](./Sampleimg/toTop.gif)
+
+[原文地址](https://www.kancloud.cn/dennis/javascriptmethod/261514)
+[在线演示](http://merrier.github.io/web-demo/JavaScript/toTop/toTop.html)
+
+#### 上传图片预览
+
+![上传图片预览](./Sampleimg/uploadReview.png)
+
+[原文地址](https://www.kancloud.cn/dennis/javascriptmethod/261515)
+[在线演示](http://merrier.github.io/web-demo/JavaScript/uploadReview/uploadReview.html)
+
+#### 走马灯
+
+![走马灯](./Sampleimg/marquee.gif)
+
+[原文地址](https://www.kancloud.cn/dennis/javascriptmethod/261516)
+[在线演示](http://merrier.github.io/web-demo/JavaScript/marquee/marquee.html)
+
+#### 万年历
+
+![万年历](./Sampleimg/calendar.png)
+
+[原文地址](https://www.kancloud.cn/dennis/javascriptmethod/261517)
+[在线演示](http://merrier.github.io/web-demo/JavaScript/calendar/calendar.html)
+
+#### 树形菜单
+
+![树形菜单](./Sampleimg/tree.png)
+
+[原文地址](https://www.kancloud.cn/dennis/javascriptmethod/261518)
+[在线演示](http://merrier.github.io/web-demo/JavaScript/tree/tree.html)
+
+#### 旋转加载
+
+![旋转加载](./Sampleimg/circleLoading.gif)
+
+[原文地址](https://www.kancloud.cn/dennis/javascriptmethod/261519)
+[在线演示](http://merrier.github.io/web-demo/JavaScript/circleLoading/circleLoading.html)
+
+#### 固定头的表格
+
+![固定头的表格](./Sampleimg/table.gif)
+
+[原文地址](https://www.kancloud.cn/dennis/javascriptmethod/261520)
+[在线演示](http://merrier.github.io/web-demo/JavaScript/table/table.html)
+
+#### 圆形水波纹加载进度
+
+![圆形水波纹加载进度](./Sampleimg/rippleLoading.gif)
+
+[原文地址](https://www.kancloud.cn/dennis/javascriptmethod/261521)
+[在线演示](http://merrier.github.io/web-demo/JavaScript/rippleLoading/rippleLoading.html)
+
+#### 检测是否移动端
+
+[原文地址](https://www.kancloud.cn/dennis/javascriptmethod/261522)
+[在线演示](http://merrier.github.io/web-demo/JavaScript/isMobile/checks.html)
+
+#### 搜索过滤
+
+![搜索过滤](./Sampleimg/search.gif)
+
+[原文地址](https://www.kancloud.cn/dennis/javascriptmethod/261523)
+[在线演示](http://merrier.github.io/web-demo/JavaScript/search/filter.html)
+
+#### 弹幕
+
+![弹幕](./Sampleimg/barrage.gif)
+
+[原文地址](https://www.kancloud.cn/dennis/javascriptmethod/261524)
+[在线演示](http://merrier.github.io/web-demo/JavaScript/barrage/barrage.html)
+
+#### 自定义滚动条
+
+![自定义滚动条](./Sampleimg/scroll.gif)
+
+[原文地址](https://www.kancloud.cn/dennis/javascriptmethod/261525)
+[在线演示](http://merrier.github.io/web-demo/JavaScript/scroll/scroll.html)
+
+#### 城市联动选择器
+
+![城市联动选择器](./Sampleimg/citys.gif)
+
+[原文地址](https://www.kancloud.cn/dennis/javascriptmethod/261526)
+[在线演示](http://merrier.github.io/web-demo/JavaScript/citys/citys.html)
+
+#### 滚动监听
+
+![滚动监听](./Sampleimg/scrollSpy.gif)
+
+[原文地址](https://www.kancloud.cn/dennis/javascriptmethod/266765)
+[在线演示](http://merrier.github.io/web-demo/JavaScript/scrollSpy/scrollSpy.html)
+
+#### 边栏悬浮菜单
+
+![边栏悬浮菜单](./Sampleimg/scrollMenu.gif)
+
+[原文地址](https://www.kancloud.cn/dennis/javascriptmethod/266766)
+[在线演示](http://merrier.github.io/web-demo/JavaScript/scroll_menu/scrollMenu.html)
+
 ### canvas实战篇
+
+#### 雪花纷飞
+
+![雪花纷飞](./Sampleimg/snow.gif)
+
+[原文地址](https://www.kancloud.cn/dennis/javascriptmethod/261528)
+[在线演示](http://merrier.github.io/web-demo/Canvas/snow/snow.html)
+
+#### 粒子动画
+
+![粒子动画](./Sampleimg/particle.gif)
+
+[原文地址](https://www.kancloud.cn/dennis/javascriptmethod/261529)
+[在线演示](http://merrier.github.io/web-demo/Canvas/particle/particle.html)
+
+#### 刮刮卡
+
+![刮刮卡](./Sampleimg/card.gif)
+
+[原文地址](https://www.kancloud.cn/dennis/javascriptmethod/261530)
+[在线演示](http://merrier.github.io/web-demo/Canvas/card/card.html)
+
+#### 手势密码
+
+![手势密码](./Sampleimg/gestureLock.gif)
+
+[原文地址](https://www.kancloud.cn/dennis/javascriptmethod/261531)
+[在线演示](http://merrier.github.io/web-demo/Canvas/gestureLock/gestureLock.html)
+
+#### 截图下载
+
+![截图下载](./Sampleimg/printscreen.gif)
+
+[原文地址](https://www.kancloud.cn/dennis/javascriptmethod/261532)
+[在线演示](http://merrier.github.io/web-demo/Canvas/printscreen/printscreen.html)
+
+#### 图片放大镜
+
+![图片放大镜](./Sampleimg/glass.gif)
+
+[原文地址](https://www.kancloud.cn/dennis/javascriptmethod/261533)
+[在线演示](http://merrier.github.io/web-demo/Canvas/glass/glass.html)
+
+#### 粒子聚合
+
+![粒子聚合](./Sampleimg/explode.gif)
+
+[原文地址](https://www.kancloud.cn/dennis/javascriptmethod/266767)
+[在线演示](http://merrier.github.io/web-demo/Canvas/explode/explode.html)
 
 ### 移动实战篇
 
+#### 列表侧滑删除
+
+![列表侧滑删除](./Sampleimg/sliceList.gif)
+
+[原文地址](https://www.kancloud.cn/dennis/javascriptmethod/261535)
+[在线演示](http://merrier.github.io/web-demo/Canvas/sliceList/sliceList.html)
+
+#### 移动联动选择器
+
+![移动联动选择器](./Sampleimg/picker.gif)
+
+[原文地址](https://www.kancloud.cn/dennis/javascriptmethod/261536)
+[在线演示](http://merrier.github.io/web-demo/Canvas/picker/selector.html)
