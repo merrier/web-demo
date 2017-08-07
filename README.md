@@ -480,6 +480,13 @@
 [原文地址](https://www.kancloud.cn/dennis/javascriptmethod/266767)
 [在线演示](http://merrier.github.io/web-demo/Canvas/explode/explode.html)
 
+#### 不规则三角形彩条
+
+![不规则三角形彩条](./Sampleimg/colorBar.png)
+
+[原文地址](http://evanyou.me/)
+[在线演示](http://merrier.github.io/web-demo/Canvas/colorBar/colorBar.html)
+
 ### 移动实战篇
 
 #### 列表侧滑删除
@@ -487,11 +494,11 @@
 ![列表侧滑删除](./Sampleimg/sliceList.gif)
 
 [原文地址](https://www.kancloud.cn/dennis/javascriptmethod/261535)
-[在线演示](http://merrier.github.io/web-demo/Canvas/sliceList/sliceList.html)
+[在线演示](http://merrier.github.io/web-demo/Mobile/sliceList/sliceList.html)
 
 #### 移动联动选择器
 
 ![移动联动选择器](./Sampleimg/picker.gif)
 
 [原文地址](https://www.kancloud.cn/dennis/javascriptmethod/261536)
-[在线演示](http://merrier.github.io/web-demo/Canvas/picker/selector.html)
+[在线演示](http://merrier.github.io/web-demo/Mobile/picker/selector.html)
