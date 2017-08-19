@@ -233,6 +233,14 @@
 [原文地址](https://www.kancloud.cn/dennis/javascriptmethod/262479)
 [在线演示](http://merrier.github.io/web-demo/CSS/ribbon/ribbon.html)
 
+#### webpack盒子动画
+
+![webpack盒子动画](./Sampleimg/webpack-box.gif)
+
+[在线演示](http://merrier.github.io/web-demo/CSS/webpack-box/webpack-box.html)
+
+
+
 ### JavaScript实战篇
 
 #### 点击水波纹
