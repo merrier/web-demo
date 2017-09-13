@@ -239,6 +239,11 @@
 
 [在线演示](http://merrier.github.io/web-demo/CSS/webpack-box/webpack-box.html)
 
+#### 花瓣动画
+
+![花瓣动画](./Sampleimg/flower.gif)
+
+[在线演示](http://merrier.github.io/web-demo/CSS/flower/flower.html)
 
 
 ### JavaScript实战篇
