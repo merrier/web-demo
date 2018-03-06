@@ -72,7 +72,7 @@ body {
     transform: rotate(0deg);
     box-shadow: 0 2.75em 4.5em rgba(0, 0, 0, 0.2);
     animation-name: show-large-leaf;
-    animation-delay: .5s
+    animation-delay: .5s;
 }
 
 .part:nth-child(2) {
@@ -83,7 +83,7 @@ body {
     transform: rotate(90deg);
     box-shadow: 2.75em 0 4.5em rgba(0, 0, 0, 0.2);
     animation-name: show-large-leaf;
-    animation-delay: 1s
+    animation-delay: 1s;
 }
 
 .part:nth-child(3) {
@@ -94,7 +94,7 @@ body {
     transform: rotate(180deg);
     box-shadow: 0 -2.75em 4.5em rgba(0, 0, 0, 0.2);
     animation-name: show-large-leaf;
-    animation-delay: 1.5s
+    animation-delay: 1.5s;
 }
 
 .part:nth-child(4) {
@@ -105,7 +105,7 @@ body {
     transform: rotate(270deg);
     box-shadow: -2.75em 0 4.5em rgba(0, 0, 0, 0.2);
     animation-name: show-large-leaf;
-    animation-delay: 2s
+    animation-delay: 2s;
 }
 
 .part:nth-child(5) {
@@ -120,7 +120,7 @@ body {
     background-color: rgba(121, 103, 158, 0.5);
     transform: rotate(0deg);
     animation-name: show-small-leaf;
-    animation-delay: .25s
+    animation-delay: .25s;
 }
 
 .part:nth-child(6) {
@@ -135,7 +135,7 @@ body {
     background-color: rgba(121, 103, 158, 0.5);
     transform: rotate(45deg);
     animation-name: show-small-leaf;
-    animation-delay: .5s
+    animation-delay: .5s;
 }
 
 .part:nth-child(7) {
@@ -150,7 +150,7 @@ body {
     background-color: rgba(121, 103, 158, 0.5);
     transform: rotate(90deg);
     animation-name: show-small-leaf;
-    animation-delay: .75s
+    animation-delay: .75s;
 }
 
 .part:nth-child(8) {
@@ -165,7 +165,7 @@ body {
     background-color: rgba(121, 103, 158, 0.5);
     transform: rotate(135deg);
     animation-name: show-small-leaf;
-    animation-delay: 1s
+    animation-delay: 1s;
 }
 
 .part:nth-child(9) {
@@ -180,7 +180,7 @@ body {
     background-color: rgba(121, 103, 158, 0.5);
     transform: rotate(180deg);
     animation-name: show-small-leaf;
-    animation-delay: 1.25s
+    animation-delay: 1.25s;
 }
 
 .part:nth-child(10) {
@@ -195,7 +195,7 @@ body {
     background-color: rgba(121, 103, 158, 0.5);
     transform: rotate(225deg);
     animation-name: show-small-leaf;
-    animation-delay: 1.5s
+    animation-delay: 1.5s;
 }
 
 .part:nth-child(11) {
@@ -210,7 +210,7 @@ body {
     background-color: rgba(121, 103, 158, 0.5);
     transform: rotate(270deg);
     animation-name: show-small-leaf;
-    animation-delay: 1.75s
+    animation-delay: 1.75s;
 }
 
 .part:nth-child(12) {
@@ -225,7 +225,7 @@ body {
     background-color: rgba(121, 103, 158, 0.5);
     transform: rotate(315deg);
     animation-name: show-small-leaf;
-    animation-delay: 2s
+    animation-delay: 2s;
 }
 
 .flower-container h1{
@@ -245,7 +245,7 @@ body {
 
 .flower-container h1,.flower-container p {
     opacity: 0;
-    animation: show-text 1s 2.5s forwards cubic-bezier(0.1, 0.95, 0.59, 1.22)
+    animation: show-text 1s 2.5s forwards cubic-bezier(0.1, 0.95, 0.59, 1.22);
 }
 
 .flower-container p {
@@ -302,20 +302,20 @@ body {
 
 @keyframes show-small-leaf {
     0% {
-        opacity: 0
+        opacity: 0;
     }
     100% {
-        opacity: .7
+        opacity: .7;
     }
 }
 
 @keyframes show-text {
     0% {
         opacity: 0;
-        transform: translateY(1em)
+        transform: translateY(1em);
     }
     100% {
         opacity: 1;
-        transform: translateY(0)
+        transform: translateY(0);
     }
 }
