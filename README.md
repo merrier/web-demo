@@ -140,7 +140,7 @@
 
 #### 自定义选择文本样式
 
-![自定义选择文本样式](./Sampleimg/selection.png)
+![自定义选择文本样式](./Sampleimg/selection.gif)
 
 [原文地址](https://www.kancloud.cn/dennis/javascriptmethod/261490)
 [在线演示](http://merrier.github.io/web-demo/CSS/selection/selection.html)
@@ -175,7 +175,7 @@
 
 #### 打字机效果
 
-![打字机效果](./Sampleimg/typewriter.png)
+![打字机效果](./Sampleimg/typewriter.gif)
 
 [原文地址](https://www.kancloud.cn/dennis/javascriptmethod/261495)
 [在线演示](http://merrier.github.io/web-demo/CSS/print/typewriter.html)
@@ -243,6 +243,7 @@
 
 ![花瓣动画](./Sampleimg/flower.gif)
 
+[出处](https://cssanimation.rocks/)
 [在线演示](http://merrier.github.io/web-demo/CSS/flower/flower.html)
 
 
@@ -484,7 +485,7 @@
 
 #### 截图下载
 
-![截图下载](./Sampleimg/printscreen.gif)
+![截图下载](./Sampleimg/printscreen.png)
 
 [原文地址](https://www.kancloud.cn/dennis/javascriptmethod/261532)
 [在线演示](http://merrier.github.io/web-demo/Canvas/printscreen/printscreen.html)
@@ -507,7 +508,7 @@
 
 ![不规则三角形彩条](./Sampleimg/colorBar.png)
 
-[原文地址](http://evanyou.me/)
+[出处](http://evanyou.me/)
 [在线演示](http://merrier.github.io/web-demo/Canvas/colorBar/colorBar.html)
 
 
