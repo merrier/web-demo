@@ -246,6 +246,15 @@
 [出处](https://cssanimation.rocks/)
 [在线演示](http://merrier.github.io/web-demo/CSS/flower/flower.html)
 
+#### 导航栏光标下划线跟随
+
+![导航栏光标下划线跟随](./Sampleimg/underline-follow.gif)
+
+[出处](https://juejin.im/post/5ab9e9056fb9a028be360292)
+[在线演示](http://merrier.github.io/web-demo/CSS/underline-follow/underline-follow.html)
+
+
+
 
 ### JavaScript实战篇
 
