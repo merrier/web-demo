@@ -253,7 +253,43 @@
 [出处](https://juejin.im/post/5ab9e9056fb9a028be360292)
 [在线演示](http://merrier.github.io/web-demo/CSS/underline-follow/underline-follow.html)
 
+#### Twitter点赞动效
 
+![Twitter点赞动效](./Sampleimg/twitterDigg.gif)
+
+[出处](https://www.w3cplus.com/animation/recreating-the-twitter-heart-animation.html)
+[在线演示](http://merrier.github.io/web-demo/CSS/twitterDigg/twitterDigg.html)
+
+#### 3D滚动字幕
+
+![3D滚动字幕](./Sampleimg/3DRollingCaptions.gif)
+
+[出处](https://www.w3cplus.com/animation/wrapping-animated-3D-marquee-text-with-pure-CSS.html)
+[在线演示](http://merrier.github.io/web-demo/CSS/3DRollingCaptions/3DRollingCaptions.html)
+
+
+#### CSS3地球仪
+
+![CSS3地球仪](./Sampleimg/globe.gif)
+
+[出处](https://www.w3cplus.com/css3/spheres.html)
+[在线演示](http://merrier.github.io/web-demo/CSS/globe/globe.html)
+
+
+#### 小雨打在窗户上的特效
+
+![小雨打在窗户上的特效](./Sampleimg/rainHitWindow.gif)
+
+[出处](https://www.w3cplus.com/css3/css-only-raindrops-on-window-effect.html)
+[在线演示](http://merrier.github.io/web-demo/CSS/rainHitWindow/rainHitWindow.html)
+
+
+#### 蝴蝶飞舞
+
+![蝴蝶飞舞](./Sampleimg/butterfly.gif)
+
+[出处](https://www.w3cplus.com/blog/172.html)
+[在线演示](http://merrier.github.io/web-demo/CSS/butterfly/butterfly.html)
 
 
 ### JavaScript实战篇
@@ -537,3 +573,35 @@
 
 [原文地址](https://www.kancloud.cn/dennis/javascriptmethod/261536)
 [在线演示](http://merrier.github.io/web-demo/Mobile/picker/selector.html)
+
+#### 淘宝造物节全景特效
+
+![淘宝造物节全景特效](./Sampleimg/creationFestival.gif)
+
+[出处](https://www.w3cplus.com/animation/css-3d-panorama.html)
+[在线演示](http://merrier.github.io/web-demo/Mobile/creationFestival/creationFestival.html)
+
+#### 滑动全景效果
+
+![滑动全景效果](./Sampleimg/panorama.gif)
+
+[出处](https://www.w3cplus.com/animation/css-3d-panorama.html)
+[在线演示](http://merrier.github.io/web-demo/Mobile/panorama/panorama.html)
+
+
+
+### SVG篇
+
+#### 有趣的边框动画
+
+![有趣的边框动画](./Sampleimg/borderHover.gif)
+
+[出处](https://www.w3cplus.com/svg/creating-a-border-animation-effect-with-svg-and-css.html)
+[在线演示](http://merrier.github.io/web-demo/SVG/borderHover/borderHover.html)
+
+#### 会动的百度萌熊
+
+![会动的百度萌熊](./Sampleimg/baiduBear.gif)
+
+[出处](https://www.w3cplus.com/svg/bear-animation-width-svg.html)
+[在线演示](http://merrier.github.io/web-demo/SVG/baiduBear/baiduBear.html)
