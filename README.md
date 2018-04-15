@@ -403,7 +403,7 @@
 ![圆形水波纹加载进度](./Sampleimg/rippleLoading.gif)
 
 [原文地址](https://www.kancloud.cn/dennis/javascriptmethod/261521)
-[在线演示](http://merrier.github.io/web-demo/JavaScript/rippleLoading/rippleLoading.html)
+[在线演示](http://merrier.github.io/web-demo/JavaScript/rippleLoading/circleLoading.html)
 
 #### 检测是否移动端
 
