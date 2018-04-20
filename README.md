@@ -496,6 +496,20 @@
 [在线演示](http://merrier.github.io/web-demo/JavaScript/suspension/suspension.html)
 
 
+#### 数字时钟效果
+
+![数字时钟效果](./Sampleimg/digitalClock.gif)
+
+[出处](http://www.htmleaf.com/ziliaoku/qianduanjiaocheng/20141221955.html)
+[在线演示](http://merrier.github.io/web-demo/JavaScript/digitalClock/digitalClock.html)
+
+
+#### 时钟弹珠特效
+
+![时钟弹珠特效](./Sampleimg/clockMarbles.gif)
+
+[出处](http://www.sucaihuo.com/js/2718.html)
+[在线演示](http://merrier.github.io/web-demo/JavaScript/clockMarbles/clockMarbles.html)
 
 
 ### canvas实战篇
