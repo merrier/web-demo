@@ -520,6 +520,15 @@
 [在线演示](http://merrier.github.io/web-demo/JavaScript/clockMarbles/clockMarbles.html)
 
 
+#### 今日头条APP顶部点击可居中导航
+
+![今日头条APP顶部点击可居中导航](./Sampleimg/toutiaoTopNav.gif)
+
+[出处](http://www.swiper.com.cn/demo/toutiaoNav/index.html)
+[在线演示](http://merrier.github.io/web-demo/JavaScript/toutiaoTopNav/toutiaoTopNav.html)
+
+
+
 ### canvas实战篇
 
 #### 雪花纷飞
