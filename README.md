@@ -299,6 +299,13 @@
 [出处](https://juejin.im/post/5ae1a75a6fb9a07ac3632c8c)
 [在线演示](http://merrier.github.io/web-demo/CSS/revolveCube/revolveCube.html)
 
+#### 光束和波浪
+
+![光束和波浪](./Sampleimg/beamWave.gif)
+
+[出处](https://blog.csdn.net/findhappy117/article/details/79208058)
+[在线演示](http://merrier.github.io/web-demo/CSS/beamWave/beamWave.html)
+
 
 ### JavaScript实战篇
 
